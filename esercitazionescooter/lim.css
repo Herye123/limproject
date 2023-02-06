@@ -1,0 +1,72 @@
+body {
+    background-image: url(https://i.ibb.co/zFNw5HW/background.png);
+  }
+
+h1 , h2 , p{
+    font-family: Poppins;
+}
+
+.quadrato-nero{
+    height: 1000px;
+    width: 70%;
+    background-color: rgba(0, 0, 0, 0.562);
+    margin-left: 250px;
+    border-radius: 20px;
+    margin-top: 70px;
+}
+
+.logo{
+    margin-top: 80px ;
+    height: 150px;
+    align-items: center;
+    margin-left: 40%;
+}
+
+.text1{
+    color: rgb(0, 204, 0);
+    text-align: center;
+}
+
+.qv{
+    text-align: center;
+    background-color: rgb(0, 204, 0);
+    width: 700px;
+    height: 40px;
+    margin-left: 26%;
+}
+
+.bottoni{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.monopattini{
+    margin-left: 26%;
+    display: inline-block;
+    color: aliceblue;
+}
+
+.checkbox{
+    padding-left: 20%;
+}
+
+.ricarica1{
+    height: 33px;
+    width: 300px;
+    background-color: rgb(255, 182, 92);
+    border-radius: 5px;
+}
+
+.ricarica2{
+    height: 33px;
+    width: 500px;
+    background-color: rgb(69, 255, 69);
+    border-radius: 5px;
+}
+
+.ricarica3{
+    height: 33px;
+    width: 150px;
+    background-color: rgb(255, 92, 92);
+    border-radius: 5px;
+}
